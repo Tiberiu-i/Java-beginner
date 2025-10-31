@@ -7,7 +7,7 @@ public class Ex5 {
         int sold = 1000;
 
         System.out.println("===== Bine ati venit =====");
-        System.out.println("Optiuni disponibile:\n\t1. Interogare Sold\n\t2. Retragere Numerar\n\t3. Depunere\n\t" +
+        System.out.println("Optiuni disponibile:\n\t1. Interogare Sold\n\t2. Retragere Numerar\n\t3. Depunere\n\t " +
                 "4. Curs Valutar\n\t5. Info\n\t6. Iesire");
         System.out.println();
 
