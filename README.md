@@ -8,6 +8,8 @@ This repository documents my progress through a Java course and serves as a refe
 
 Powered by [Devmind.ro](https://devmind.ro)
 
+And [Boot.dev](https://boot.dev)
+
 Motivation
 
 Quick Start
